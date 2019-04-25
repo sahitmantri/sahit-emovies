@@ -1,3 +1,4 @@
+To View the home page of this website open (index.html)
 For booking a Movie Ticket :
 Movies-->Available Movies-->Check Availability-->Choose your Preffered Film-->Book Now-->Seat Preview
 For Preview of the Events Page go to the Events page and have a look regarding the ongoing events.
